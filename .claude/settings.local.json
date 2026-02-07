@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node --version:*)",
+      "Bash(pip install:*)",
+      "WebFetch(domain:elevenlabs.io)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:www.udioapi.pro)",
+      "WebFetch(domain:udioapi.pro)",
+      "WebFetch(domain:musicapi.ai)",
+      "WebFetch(domain:docs.musicapi.ai)",
+      "Bash(lsof:*)",
+      "Bash(xargs kill:*)",
+      "Bash(curl:*)",
+      "Bash(npx next build:*)",
+      "Bash(npx tsc:*)"
+    ]
+  }
+}
