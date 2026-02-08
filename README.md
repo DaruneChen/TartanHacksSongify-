@@ -4,8 +4,6 @@
 
 Screen to Song captures what's happening on your screen, analyzes the context using AI vision models, generates custom lyrics, and creates a music video with synchronized visuals.
 
-![Screen to Song Demo](https://img.shields.io/badge/Status-Hackathon%20Ready-brightgreen)
-
 ## ✨ Features
 
 - 🖥️ **Real-time Screen Capture** - Captures your screen activity with browser API
